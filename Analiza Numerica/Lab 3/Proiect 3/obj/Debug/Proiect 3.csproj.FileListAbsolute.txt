@@ -1,0 +1,58 @@
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\bin\Debug\Proiect 3.exe.config
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\bin\Debug\Proiect 3.exe
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\bin\Debug\Proiect 3.pdb
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\obj\Debug\Proiect 3.csprojAssemblyReference.cache
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\obj\Debug\Proiect_3.Form1.resources
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\obj\Debug\Proiect_3.Properties.Resources.resources
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\obj\Debug\Proiect 3.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\obj\Debug\Proiect 3.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\obj\Debug\Proiect 3.exe
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Proiecte VS\Proiect 3\obj\Debug\Proiect 3.pdb
+C:\Users\user\Desktop\Proiect 3\bin\Debug\Proiect 3.exe.config
+C:\Users\user\Desktop\Proiect 3\bin\Debug\Proiect 3.exe
+C:\Users\user\Desktop\Proiect 3\bin\Debug\Proiect 3.pdb
+C:\Users\user\Desktop\Proiect 3\obj\Debug\Proiect 3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Proiect 3\obj\Debug\Proiect_3.Form1.resources
+C:\Users\user\Desktop\Proiect 3\obj\Debug\Proiect_3.Properties.Resources.resources
+C:\Users\user\Desktop\Proiect 3\obj\Debug\Proiect 3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Proiect 3\obj\Debug\Proiect 3.exe
+C:\Users\user\Desktop\Proiect 3\obj\Debug\Proiect 3.pdb
+C:\Users\Andrew\Desktop\Proiect 3\bin\Debug\Proiect 3.exe.config
+C:\Users\Andrew\Desktop\Proiect 3\bin\Debug\Proiect 3.exe
+C:\Users\Andrew\Desktop\Proiect 3\bin\Debug\Proiect 3.pdb
+C:\Users\Andrew\Desktop\Proiect 3\obj\Debug\Proiect 3.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Proiect 3\obj\Debug\Proiect_3.Form1.resources
+C:\Users\Andrew\Desktop\Proiect 3\obj\Debug\Proiect_3.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Proiect 3\obj\Debug\Proiect 3.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\Proiect 3\obj\Debug\Proiect 3.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Proiect 3\obj\Debug\Proiect 3.exe
+C:\Users\Andrew\Desktop\Proiect 3\obj\Debug\Proiect 3.pdb
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\bin\Debug\Proiect 3.exe.config
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\bin\Debug\Proiect 3.exe
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\bin\Debug\Proiect 3.pdb
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\obj\Debug\Proiect 3.csprojAssemblyReference.cache
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\obj\Debug\Proiect_3.Form1.resources
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\obj\Debug\Proiect_3.Properties.Resources.resources
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\obj\Debug\Proiect 3.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\obj\Debug\Proiect 3.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\obj\Debug\Proiect 3.exe
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3\obj\Debug\Proiect 3.pdb
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\bin\Debug\Proiect 3.exe.config
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\bin\Debug\Proiect 3.exe
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\bin\Debug\Proiect 3.pdb
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\obj\Debug\Proiect 3.csprojAssemblyReference.cache
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\obj\Debug\Proiect_3.Form1.resources
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\obj\Debug\Proiect_3.Properties.Resources.resources
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\obj\Debug\Proiect 3.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\obj\Debug\Proiect 3.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\obj\Debug\Proiect 3.exe
+C:\Users\Andrew\Documents\Proiecte scolare\Analiza numerica\Laborator\Proiect 3\Proiect 3(in caz de ceva)\obj\Debug\Proiect 3.pdb
+C:\Users\User\Desktop\Analiza Numerica\Lab 3\Proiect 3\bin\Debug\Proiect 3.exe.config
+C:\Users\User\Desktop\Analiza Numerica\Lab 3\Proiect 3\bin\Debug\Proiect 3.exe
+C:\Users\User\Desktop\Analiza Numerica\Lab 3\Proiect 3\bin\Debug\Proiect 3.pdb
+C:\Users\User\Desktop\Analiza Numerica\Lab 3\Proiect 3\obj\Debug\Proiect 3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Analiza Numerica\Lab 3\Proiect 3\obj\Debug\Proiect_3.Form1.resources
+C:\Users\User\Desktop\Analiza Numerica\Lab 3\Proiect 3\obj\Debug\Proiect_3.Properties.Resources.resources
+C:\Users\User\Desktop\Analiza Numerica\Lab 3\Proiect 3\obj\Debug\Proiect 3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Analiza Numerica\Lab 3\Proiect 3\obj\Debug\Proiect 3.exe
+C:\Users\User\Desktop\Analiza Numerica\Lab 3\Proiect 3\obj\Debug\Proiect 3.pdb
